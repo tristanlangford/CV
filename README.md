@@ -23,7 +23,7 @@ Consistently developed and presented agile solutions to problems that have occur
 
 ### Development Projects
 
--[Acebook](https://github.com/tristanlangford/acebook-brainaics)
+- [Acebook](https://github.com/tristanlangford/acebook-brainaics)
 
 Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
