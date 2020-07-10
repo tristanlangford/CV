@@ -2,7 +2,7 @@
 
 Junior Full Stack Web Developer
 
-Currently studying at one of the most discerning dev bootcamps in the world, backed by a 5-year client-facing career doing business and data analytics in the healthcare sector. Experienced in engaging with customers and stakeholders to understand and deliver requirements.
+Currently studying at one of the most discerning dev bootcamps in the world, backed by a 5-year client-facing career doing project management and data analytics in the healthcare sector. Experienced in engaging with customers and stakeholders to understand and deliver their requirements.
 
 ### Profile
 
@@ -23,7 +23,7 @@ Consistently developed and presented agile solutions to problems that have occur
 
 ### Development Projects
 
--TBC
+-[Acebook](https://github.com/tristanlangford/acebook-brainaics)
 
 Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
