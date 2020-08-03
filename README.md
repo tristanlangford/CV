@@ -1,5 +1,10 @@
 ## Tristan Langford
 
+[![LinkedIn Profile]](https://www.linkedin.com/in/tristan-langford-61711a70/)
+[![Email]](mailto:tristanlangford@hotmail.com)
+[![CodeWars Profile]](https://www.codewars.com/users/TristanLangford)
+[![GitHub Profile]](https://github.com/tristanlangford)
+
 I'm a Full Stack developer, looking for opportunites to continue challenging myself, building applications that will challenge the current technologies and benefit consumers.
 
 Following a 5-year client-facing career in the healthcare sector, I wanted to do a job I not only enjoyed but would make a difference. Inspired by the technology focus in the healthcare sector, in early 2020 I found just that in software engineering. 
