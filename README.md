@@ -1,12 +1,10 @@
 ## Tristan Langford
 
-Junior Full Stack Web Developer
+I'm a Full Stack developer, looking for opportunites to continue challenging myself, building applications that will challenge the current technologies and benefit consumers.
 
-Currently studying at one of the most discerning dev bootcamps in the world, backed by a 5-year client-facing career doing project management and data analytics in the healthcare sector. Experienced in engaging with customers and stakeholders to understand and deliver their requirements.
+Following a 5-year client-facing career in the healthcare sector, I wanted to do a job I not only enjoyed but would make a difference. Inspired by the technology focus in the healthcare sector, in early 2020 I found just that in software engineering. 
 
-### Profile
-
-After stumbling into a 5yr career in the healthcare sector, I decided to revaluate what I wanted to do with my career, and decided I would make a career out of what I enjoyed doing not matter what that was. After teaching myself basic HTML, CSS & JavaScript, I fell in love with the problem solving and constant challenge and achievement, and decided to pursue a career in software engineering.
+I have recently graduated from [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), learning best practice, tools and methodologies.
 
 ## Projects
 
