@@ -8,6 +8,17 @@ Currently studying at one of the most discerning dev bootcamps in the world, bac
 
 After stumbling into a 5yr career in the healthcare sector, I decided to revaluate what I wanted to do with my career, and decided I would make a career out of what I enjoyed doing not matter what that was. After teaching myself basic HTML, CSS & JavaScript, I fell in love with the problem solving and constant challenge and achievement, and decided to pursue a career in software engineering.
 
+## Projects
+
+A summary of the projects I'm most proud of. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology.
+
+| Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
+| ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **[Invimcible]**      | Group project. A top down platformer game to learn Vim commands                                   | Express, React, Node, Redux | [Deployed](https://vimvincible.netlify.app/), [Backend API](https://github.com/tristanlangford/invimcible_back_end)           |
+| **[Acebook]**    | Group project. Emulating the functionality of Facebook, using Ruby-on-Rails.      | Ruby, Ruby-on-Rails, JavaScript            | |
+| **[Bank Tech Test]**           | A CLI program emulating a bank account, showcasing test driven development        | JavaScript             |                                                                              |
+| **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using vanilla HTML, CSS, and JS. | Vanilla JS, HTML, CSS               |   
+
 ## Skills
 
 ### Leads effective teams and projects
@@ -20,18 +31,6 @@ A career of working with internal and external clients to understand, execute an
 ### Designed and presented agile problem resolution
 
 Consistently developed and presented agile solutions to problems that have occured during a project or when aiming to deliver a company target. Presented these solutions to executive level and getting executive buy in and support.
-
-## Projects
-
-A summary of the projects I'm most proud of. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology.
-
-| Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
-| ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **[Invimcible]**      | Group project. A top down platformer game to learn Vim commands                                   | Express, React, Node, Redux | [Deployed](https://vimvincible.netlify.app/), [Backend API](https://github.com/tristanlangford/invimcible_back_end)           |
-| **[Acebook]**    | Group project. Emulating the functionality of Facebook, using Ruby-on-Rails.      | Ruby, Ruby-on-Rails, JavaScript            | |
-| **[Bank Tech Test]**           | A CLI program emulating a bank account, showcasing test driven development        | JavaScript             |                                                                              |
-| **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using vanilla HTML, CSS, and JS. | Vanilla JS, HTML, CSS               |   
-
 
 <!-- Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
