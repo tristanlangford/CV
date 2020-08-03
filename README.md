@@ -29,7 +29,7 @@ A summary of the best projects I've worked on. All developed with Test Driven De
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **[Invimcible]**      | Group project. A top down platformer game to learn Vim commands                                   | Express, React, Node, Redux | [Deployed](https://vimvincible.netlify.app/), [Backend API](https://github.com/tristanlangford/invimcible_back_end)           |
 | **[Acebook]**    | Group project. Emulating the functionality of Facebook, using Ruby-on-Rails.      | Ruby, Ruby-on-Rails, JavaScript            | |
-| **[Bank Tech Test]**           | A CLI program emulating a bank account, showcasing test driven development        | JavaScript             | )                                                                              |
+| **[Bank Tech Test]**           | A CLI program emulating a bank account, showcasing test driven development        | JavaScript             |                                                                              |
 | **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using vanilla HTML, CSS, and JS. | Vanilla JS, HTML, CSS               |   
 
 
