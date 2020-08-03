@@ -21,9 +21,17 @@ A career of working with internal and external clients to understand, execute an
 
 Consistently developed and presented agile solutions to problems that have occured during a project or when aiming to deliver a company target. Presented these solutions to executive level and getting executive buy in and support.
 
-### Development Projects
+## Projects
 
-- [Acebook](https://github.com/tristanlangford/acebook-brainaics)
+A summary of the best projects I've worked on. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology. A full summary of all my projects is available [here](projects.md).
+
+| Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
+| ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **[Invimcible]**      | Group project. A top down platformer game to learn Vim commands                                   | Express, React, Node, Redux | [Deployed](https://vimvincible.netlify.app/), [Backend API](https://github.com/tristanlangford/invimcible_back_end)           |
+| **[Acebook]**    | Group project. Emulating the functionality of Facebook, using Ruby-on-Rails.      | Ruby, Ruby-on-Rails, JavaScript            | |
+| **[Bank Tech Test]**           | A CLI program emulating a bank account, showcasing test driven development        | JavaScript             | )                                                                              |
+| **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using vanilla HTML, CSS, and JS. | Vanilla JS, HTML, CSS               |   
+
 
 <!-- Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -89,3 +97,10 @@ Consistently developed and presented agile solutions to problems that have occur
 
 - On a Saturday can be found standing in the "rabble" supporting Dulwich Hamlet FC
 - Keep active through running, the gym and play 5-aside football at least once a week (pre-lockdown)
+
+<!-- Project Links -->
+
+[Invimcible]: https://github.com/RaeRachael/invimcible_front_end
+[Acebook]: https://github.com/tristanlangford/acebook-brainaics
+[Bank Tech Test]: https://github.com/tristanlangford/bank_tech_test
+[News Summary]: https://github.com/tristanlangford/news-summary-challenge
