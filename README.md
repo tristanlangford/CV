@@ -27,16 +27,19 @@ A summary of the projects I'm most proud of. All developed with Test Driven Deve
 
 ## Skills
 
-### Leads effective teams and projects
--	Leads effective teams and projects; supplies operational excellence in complex logistical environments to meet demanding project deliverables; recruits and coaches high potential talent.
-
 ### Client Relationship Management & Project Management
 
 A career of working with internal and external clients to understand, execute and deliver client expectations and managing stakeholder engagement through the project lifecycle.
 
-### Designed and presented agile problem resolution
+### Communication
 
-Consistently developed and presented agile solutions to problems that have occured during a project or when aiming to deliver a company target. Presented these solutions to executive level and getting executive buy in and support.
+Coming from a complex indstry in Orthopadics, I am well equipt when communicating with non-technical stakeholders, translating technical details into clear leyman terms. I have a strong experience of using this skill to get buy in from executive stakeholders into a numbe of projects and products.
+
+### Effective Teamwork
+
+Throughout my time at Makers, I often took it upon myself to educate myself on new technologies needed for projects and feedback my learnings to my peers.
+
+ One example was the introduction of Redux to manage state with a React app. I spent an evening learning Redux and then relay that learning to the group the next morning, which thwey then used to quickly and effectively use Redux reducers to manipulate state and rerender our application.
 
 <!-- Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
