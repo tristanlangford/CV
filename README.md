@@ -106,3 +106,8 @@ Consistently developed and presented agile solutions to problems that have occur
 [Acebook]: https://github.com/tristanlangford/acebook-brainaics
 [Bank Tech Test]: https://github.com/tristanlangford/bank_tech_test
 [News Summary]: https://github.com/tristanlangford/news-summary-challenge
+
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
+[github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
