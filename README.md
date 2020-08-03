@@ -1,9 +1,12 @@
 ## Tristan Langford
+<div align='center'>
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/tristan-langford-61711a70/)
 [![Email]](mailto:tristanlangford@hotmail.com)
 [![CodeWars Profile]](https://www.codewars.com/users/TristanLangford)
 [![GitHub Profile]](https://github.com/tristanlangford)
+
+</div>
 
 I'm a Full Stack developer, looking for opportunites to continue challenging myself, building applications that will challenge the current technologies and benefit consumers.
 
