@@ -23,7 +23,7 @@ Consistently developed and presented agile solutions to problems that have occur
 
 ## Projects
 
-A summary of the best projects I've worked on. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology. A full summary of all my projects is available [here](projects.md).
+A summary of the projects I'm most proud of. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology.
 
 | Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
