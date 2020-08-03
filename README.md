@@ -10,7 +10,7 @@
 
 I'm a Full Stack developer, looking for opportunites to continue challenging myself, building applications that will challenge the current technologies and benefit consumers.
 
-Following a 5-year client-facing career in the healthcare sector, I wanted to do a job that I not only enjoyed but would make a difference. Inspired by the technology focus in the healthcare sector, in early 2020 I found just that in software engineering. 
+Following a 5-year client-facing career in the healthcare sector, I wanted to do a job that I not only enjoyed but would make a difference. Inspired by the recent focus on technologyin the healthcare sector, in early 2020 I found what I had been looking for in software development. 
 
 I have recently graduated from [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), learning best practice, tools and methodologies.
 
@@ -33,13 +33,13 @@ A career of working with internal and external clients to understand, execute an
 
 ### Communication
 
-Coming from a complex indstry in Orthopadics, I am well equipt when communicating with non-technical stakeholders, translating technical details into clear leyman terms. I have a strong experience of using this skill to get buy in from executive stakeholders into a numbe of projects and products.
+Coming from a complex industry in Orthopadics, I am well equipt when communicating with non-technical stakeholders, translating technical details into clear leyman terms. I have a strong experience of using this skill to get buy-in from executive stakeholders into a number of projects and products.
 
 ### Effective Teamwork
 
 Throughout my time at Makers, I often took it upon myself to educate myself on new technologies needed for projects and feedback my learnings to my peers.
 
- One example was the introduction of Redux to manage state with a React app. I spent an evening learning Redux and then relay that learning to the group the next morning, which thwey then used to quickly and effectively use Redux reducers to manipulate state and rerender our application.
+ One example was the introduction of Redux to manage state with a React app. I spent an evening learning Redux and then relayed that learning to the group the next morning, which they then used to quickly and effectively use Redux reducers to manipulate state and rerender our application.
 
  ### Technical Knowledge
 
@@ -123,16 +123,16 @@ I have worked with a variety of languages, technologies and softwares.
 
 *Category Manager*  
 
-- Supported the delivery of the Future Operating Model within the NHS, through managing the relationships and contract Management with NHS Trusts in the East of England.
--	Stakeholder management with Heads of Procurement and key suppliers, to deliver cost savings for the NHS through management of a national framework through the understanding and questioning of the customers requirements
--	Spend Analysis, reviewing current supplier pricing offers and comparing them to the framework. Detailed analysis and process approach to manipulating data to ensure it could be easily interpreted and delivered on the customers expectations
+- Supported the delivery of the Future Operating Model within the NHS, through managing the relationships and contract management with NHS Trusts.
+-	Stakeholder management with Heads of Procurement and key suppliers, to deliver cost savings for the NHS through management of a national framework and the understanding and questioning of customer requirements.
+-	Spend Analysis, reviewing current supplier pricing offers and comparing them to the framework. Detailed analysis and process approach to manipulating data to ensure it could be easily interpreted and delivered to the customers expectations.
 
 **Scandit** (Oct 2018 to Jan 2019)   
 
 *Sales Development Representative*  
 
 - Worked on developing sales pipeline and sales leads for a state of the art barcode scanning and augmented reality software company.
-- Worked along side software engineers to understand the benefits and mindsets of software engineers in order to promote the technology
+- Worked along side software engineers to understand the benefits and mindsets of software engineers in order to promote the technology.
 
 **Summit Medical Group** (Aug 2015 to Oct 2018)
 
@@ -151,13 +151,13 @@ I have worked with a variety of languages, technologies and softwares.
 
 #### Makers Academy (May 2020 to August 2020)
 
-- A 16 week intensive programming bootcamp. (Remote due to COVID-19 lockdown)
+- A 16 week intensive programming bootcamp. *(Remote due to COVID-19 lockdown)*
 - Primarily self-led training, encouraging students to discover/develop their own solutions, in pairs or teams.
 - Makers champions Agile/XP methodologies and practices, such as pair programming, TDD and OOD.
 
 #### Oxford Brookes University (2011 to 2015)
 
-- B.A. (Hons), Economics, Politics & International Relations - 2:1
+- 2:1 B.A. (Hons), Economics, Politics & International Relations
 
 #### Other qualifications
 
@@ -167,8 +167,8 @@ I have worked with a variety of languages, technologies and softwares.
 ## Hobbies
 
 - **Dulwich Hamlet** - On a Saturday can be found standing in the "rabble" supporting Dulwich Hamlet FC
-- **Cricket** - Regularly play for one of the worst cricket teams in London (formerly the worst)
-- **Running** - I got into running during lockdown. I've completed a couple half marathons. [Strava](https://www.strava.com/athletes/15342123)
+- **Cricket** - Regularly play for one of the worst cricket teams in London (formerly officially the worst)
+- **Running** - I got into running during lockdown. So far I've completed a couple half marathons. [Strava](https://www.strava.com/athletes/15342123)
 
 <!-- Project Links -->
 
