@@ -197,4 +197,4 @@ I have worked with a variety of languages, technologies and softwares.
 [codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
 [github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
 [Website]: https://img.shields.io/badge/-TL%20Website-%234b4b4b?style=for-the-badge
-[Garmin Developer Profile]: https://static.garmincdn.com/en/products/010-D1303-01/g/cf-lg-132359f0-1413-4848-9eab-5b4527a576ed.jpg
+[Garmin Developer Profile]: https://apprecs.org/ios/images/app-icons/256/83/583446403.jpg
