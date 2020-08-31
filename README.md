@@ -6,7 +6,6 @@
 [![Email]](mailto:tristanlangford@hotmail.com)
 [![CodeWars Profile]](https://www.codewars.com/users/TristanLangford)
 [![GitHub Profile]](https://github.com/tristanlangford)
-[![Garmin Developer Profile]](https://apps.garmin.com/en-US/developer/c8e0fecf-9638-4318-89e9-2260b3394d37/apps)
 
 </div>
 
@@ -197,4 +196,3 @@ I have worked with a variety of languages, technologies and softwares.
 [codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
 [github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
 [Website]: https://img.shields.io/badge/-TL%20Website-%234b4b4b?style=for-the-badge
-[Garmin Developer Profile]: https://apprecs.org/ios/images/app-icons/256/83/583446403.jpg
