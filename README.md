@@ -32,6 +32,7 @@ A summary of the projects I'm most proud of. All developed with Test Driven Deve
 | Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **[Invimcible]**      | Group project. A top down platformer game to learn Vim commands                                   | Express, React, Node, Redux | [Deployed](https://vimvincible.netlify.app/), [Backend API](https://github.com/tristanlangford/invimcible_back_end)           |
+| **[Garmin Score Tracker]**      | A Garmin ConnectIQ App for tracking the score in 5 a-side football. Change and store team name and timer settings                                   | Monkey C | [Get App](https://apps.garmin.com/en-US/apps/5d8fbcc0-b650-4a0d-87dd-f5acb095d1ed)           |
 | **[Acebook]**    | Group project. Emulating the functionality of Facebook, using Ruby-on-Rails.      | Ruby, Ruby-on-Rails, JavaScript            | [Deployed](https://acebook-brainaics.herokuapp.com/) |
 | **[Bank Tech Test]**           | A CLI program emulating a bank account, showcasing test driven development in multiple languages       | JavaScript, Ruby             |                                                                              |
 | **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using HTML, CSS, and JS. | JavaScript, HTML, CSS               |  [Deployed](https://news-article-summary.herokuapp.com/)  
@@ -187,6 +188,7 @@ I have worked with a variety of languages, technologies and softwares.
 [Acebook]: https://github.com/tristanlangford/acebook-brainaics
 [Bank Tech Test]: https://github.com/tristanlangford/bank_tech_test
 [News Summary]: https://github.com/tristanlangford/news-summary-challenge
+[Garmin Score Tracker]: https://github.com/tristanlangford/Garmin_football_Score_Tracker
 
 [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
