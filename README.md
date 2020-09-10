@@ -32,9 +32,10 @@ A summary of the projects I'm most proud of. All developed with Test Driven Deve
 | Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **[Invimcible]**      | Group project. A top down platformer game to learn Vim commands                                   | Express, React, Node, Redux | [Deployed](https://vimvincible.netlify.app/), [Backend API](https://github.com/tristanlangford/invimcible_back_end)           |
-| **[Acebook]**    | Group project. Emulating the functionality of Facebook, using Ruby-on-Rails.      | Ruby, Ruby-on-Rails, JavaScript            | [Deployed](https://acebook-brainaics.herokuapp.com/) |
-| **[Bank Tech Test]**           | A CLI program emulating a bank account, showcasing test driven development in multiple languages       | JavaScript, Ruby             |                                                                              |
+| **[Garmin Score Tracker]**      | A Garmin ConnectIQ App for tracking the score in 5 a-side football. Change and store team name and timer settings                                   | Monkey C | [Get App](https://apps.garmin.com/en-US/apps/5d8fbcc0-b650-4a0d-87dd-f5acb095d1ed)           |
 | **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using HTML, CSS, and JS. | JavaScript, HTML, CSS               |  [Deployed](https://news-article-summary.herokuapp.com/)  
+| **[Bank Tech Test]**           | A CLI program emulating a bank account, showcasing test driven development in multiple languages       | JavaScript, Ruby             |                                                                              |
+| **[Acebook]**    | Group project. Emulating the functionality of Facebook, using Ruby-on-Rails.      | Ruby, Ruby-on-Rails, JavaScript            | [Deployed](https://acebook-brainaics.herokuapp.com/) |
 
 ## Skills
 
@@ -74,6 +75,7 @@ I have worked with a variety of languages, technologies and softwares.
           <li>JavaScript</li>
           <li>HTML5</li>
           <li>CSS3</li>
+         <li>C++</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -84,6 +86,7 @@ I have worked with a variety of languages, technologies and softwares.
           <li>Express</li>
           <li>jQuery</li>
           <li>React</li>
+          <li>Monkey C</li>
           <li>PostgreSQL</li>
           <li>TravisCI</li>
           <li>Heroku</li>
@@ -119,6 +122,7 @@ I have worked with a variety of languages, technologies and softwares.
         <ul>
           <li>VSCode</li>
           <li>Git</li>
+          <li>Eclipse</li>
           <li>Postman</li>
           <li>Windows 10</li>
           <li>OSx</li>
@@ -187,9 +191,10 @@ I have worked with a variety of languages, technologies and softwares.
 [Acebook]: https://github.com/tristanlangford/acebook-brainaics
 [Bank Tech Test]: https://github.com/tristanlangford/bank_tech_test
 [News Summary]: https://github.com/tristanlangford/news-summary-challenge
+[Garmin Score Tracker]: https://github.com/tristanlangford/Garmin_football_Score_Tracker
 
 [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
 [codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
 [github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
-[Website]: https://img.shields.io/badge/Website-%2341403e?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAjRQTFRF////////////////////////////////////////////////////////////////////////3t7e39/f////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f////////////////////////39/f39/f39/f////////////////39/f////////////////39/f////////////////////////////////////3t7e39/f39/f39/f39/f39/f////////////////////39/f////////////////39/f////////////////////////////////////////////39/f4eHh39/f39/f39/f39/f39/f39/f39/f4ODg39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f3t7e39/f39/f39/f4ODg4ODg39/f39/f39/f3t7e39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f3t7e39/f39/f39/f39/f39/f39/f3t7e39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f39/f3t7e39/f////////////39/f39/f39/f39/f39/f39/f3t7e39/f39/f39/fezR8oAAAALx0Uk5TAAMOGCQ7FJTj7/r9TJX/eFs+BiIqHJWfB1zn/6KU+rsBBAYFDTRkk6y6wr2jYh4FSEzPvi9w2/n+6nsS840/9fx5cm7o9k9U8OKcZUU5Q4LAC5Oa5OUls1D08yu8VQKpab1ZXZsytBrnvBblwbkBrcqKt3Wc4wIm/v21D4D5JGMjA7ZQpQcDFaMIHO/i4fysf4Wn2PdLJvbrDgIT0wLF8J4uAYj7ZCkfq/h+MQQShwkIBxlScXhiOwFtaiFx4MP+AAAB60lEQVR4nGNgGAWjgBqAkYmZhZWNAgPYOTi5uHkoMICXDwgoMYCfUgMEKDVAkAgDhITxSIoQNkBUTJwSAyQkpaRlKDFAVk6aMgPkpYeSAQqKSsoK5BqgoqqmrqGppa2jqweR0DcwBAMjoAHGhghggt0AUzNzPgiwsLRSAklY20hjBbZYDbCz50MAB0dGPAY4YTPA2YUPGbi64THAHZsBHkDs6eXt4+vnD3ZKgDIDQ2BQMBiEADWFBiNAGDYD+LjC3VQgERERCeRGRaPGQgyhWHCJZYTx4+JBAgmoBiQSMiAJSSDZASiQQqIByCkxFRQgaRQYkJ4BFMiMI9+ArGygQA48TEYNGDWAOgbk4jIgL484A/KBBhRgahctjCkqtibGgBKgAaVl6PrLjSqkpSurqokwoAZoQG0dlFNd3wCmG5sg5VsQEQY0A62SbmllYGhrNwgOle7oBAl2dUMM6JEgbIBoL1BhX/+EiZMmA6tZ6SlTQYLTpkMMmDGTsAGzalAKZRtwsT47FMKbM5ewAQyz5yG0z1+wcBZIbNFiMHfJUgaGZRZAgGoAUCAAyQCG5SuWgJWvLFi1eg1UbO2kSqDAOn1gKbweCJCVK2wACmxkQAaLNm3esnXb9tlzkcR2mOzctXsRwygYBaOAWgAACP+nhyRIFoYAAAAASUVORK5CYII=
+[Website]: https://img.shields.io/badge/-TL%20Website-%234b4b4b?style=for-the-badge
