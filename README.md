@@ -75,7 +75,7 @@ I have worked with a variety of languages, technologies and softwares.
           <li>JavaScript</li>
           <li>HTML5</li>
           <li>CSS3</li>
-         <li>C++</li>
+          <li>C#</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -86,6 +86,7 @@ I have worked with a variety of languages, technologies and softwares.
           <li>Express</li>
           <li>jQuery</li>
           <li>React</li>
+          <li>.Net</li>
           <li>Monkey C</li>
           <li>PostgreSQL</li>
           <li>TravisCI</li>
