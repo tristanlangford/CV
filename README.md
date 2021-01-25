@@ -139,7 +139,7 @@ I have worked with a variety of languages, technologies and softwares.
 
 *Freelance*
 
-- Working with a Marketing Company, migrated food startups to Shopify. Built and customised websites using Shopify themes (Ruby, HTML & CSS).
+- Working with a Marketing Company, migrating food startups to Shopify. Built and customised websites using Shopify themes (Ruby, HTML & CSS).
 - Focused on respoisive web development, working closely with the web designer to build to specification & customer requirements.
 
 **Collaborative Procurement Partnership** (Jan 2019 to May 2020)  
